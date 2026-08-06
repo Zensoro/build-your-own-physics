@@ -71,7 +71,7 @@ $$ \vec{a}_{GR} = \frac{GM}{c^2 r^3}\left(4\frac{GM}{r} - v^2\right)\vec{r} $$
 
 - 把你的解决方案提交为 PR，帮助后来者
 - 用学到的工具解决一个真实问题（科研、工程、天文爱好）
-- 尝试新挑战：见 [community/ideas.md](../community/ideas.md)
-- 把你的作品分享到社区 [study-groups.md](../community/study-groups.md)
+- 尝试新挑战：见 [community/ideas.md](../../community/ideas.md)
+- 把你的作品分享到社区 [study-groups.md](../../community/study-groups.md)
 
 **Master physics by recreating it from scratch.**
