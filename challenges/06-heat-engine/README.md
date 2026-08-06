@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 06 · Heat Engine
 
 > **从扩散方程到卡诺循环：热力学第二定律的代码之证。**

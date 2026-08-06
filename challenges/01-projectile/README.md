@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 01 · Projectile Motion
 
 > **从零模拟一个抛体，看到它真的飞起来。**

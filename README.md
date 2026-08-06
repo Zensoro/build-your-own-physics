@@ -1,9 +1,9 @@
+**简体中文** | [**English**](README.en.md)
 # Build Your Own Physics
 
 > **Master physics by recreating it from scratch.**
 > 亲手重建物理定律，而不仅仅是背诵它们。
 
-**简体中文** | [**English**](README.en.md)
 
 ---
 
@@ -163,7 +163,7 @@ A: 每个挑战的 `SPEC.md` 都定义了可自动化的验收标准（如"1 万
 - [x] 12 级核心挑战 + 00 零基础速成
 - [x] 每挑战 AI 协作提示词
 - [x] 挑战自动评分器（GitHub Actions 验证 SPEC）
-- [x] 英文总览 README（[README.en.md](README.en.md)）；挑战文档仍为中文
+- [x] 中英双语（总览 README + 全部挑战文档英文版，每挑战含 README/SPEC/tutor 的 .en.md）
 - [ ] 每挑战配套视频讲解
 - [ ] 更多语言模板（Rust、Julia、JS）
 

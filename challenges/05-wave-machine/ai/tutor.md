@@ -1,3 +1,5 @@
+**简体中文** | [**English**](tutor.en.md)
+
 # AI 协作提示词 · 挑战 05 · 波动方程（Wave Machine）
 
 > 复制以下提示词给你的 AI 助手（ChatGPT / Claude / 豆包 / DeepSeek），

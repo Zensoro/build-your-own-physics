@@ -1,9 +1,11 @@
+**简体中文** | [**English**](README.en.md)
 # Challenge 11 · Quantum
 
 > **波函数是真实的：求解薛定谔方程。**
 
 > 需要：复数基础（可以当作黑盒）+ 挑战 05 的经验。
 > 🎓 有 AI 导师：[ai/tutor.md](ai/tutor.md)
+
 
 ## Why This Challenge
 

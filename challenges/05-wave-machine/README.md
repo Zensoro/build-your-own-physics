@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 05 · Wave Machine
 
 > **让波在格点上奔跑：从波动方程到驻波与干涉。**

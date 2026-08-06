@@ -1,9 +1,11 @@
+**简体中文** | [**English**](README.en.md)
 # Challenge 10 · Relativity
 
 > **把时空当作一个几何对象来编程。**
 
 > 需要：矩阵基础 + 挑战 03 的经验。矩阵可以让 AI 帮你处理。
 > 🎓 有 AI 导师：[ai/tutor.md](ai/tutor.md)
+
 
 ## Why This Challenge
 

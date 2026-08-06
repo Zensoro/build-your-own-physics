@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 04 · N-Body
 
 > **当引力属于每一个人：多体问题的模拟艺术。**

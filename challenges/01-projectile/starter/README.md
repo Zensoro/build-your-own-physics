@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 01 · Projectile Motion — Starter Code
 
 > 这是挑战 01 的起步代码。**你的任务是把 `TODO` 补全。**

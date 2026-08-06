@@ -1,6 +1,8 @@
+**简体中文** | [**English**](SPEC.en.md)
 # Challenge 09 · Electromagnetism — 验收标准（SPEC）
 
 > 本文件定义挑战 09 的可自动化验收标准。verify.py 据此评分。
+
 
 ## 接口
 

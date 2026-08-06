@@ -1,9 +1,11 @@
+**简体中文** | [**English**](README.en.md)
 # Challenge 09 · Electromagnetism
 
 > **麦克斯韦方程组的代码之舞：发射一束电磁波。**
 
 > 需要：数组操作 + 挑战 05 的经验。
 > 🎓 有 AI 导师：[ai/tutor.md](ai/tutor.md)
+
 
 ## Why This Challenge
 

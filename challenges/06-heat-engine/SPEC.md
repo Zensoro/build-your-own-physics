@@ -1,3 +1,5 @@
+**简体中文** | [**English**](SPEC.en.md)
+
 # Challenge 06 · Heat Engine — 验收标准（SPEC）
 
 > 本文件定义挑战 06 的可自动化验收标准。verify.py 据此评分。

@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 07 · Double Pendulum
 
 > **确定性系统的不可预测性：欢迎来到混沌。**

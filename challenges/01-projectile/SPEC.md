@@ -1,3 +1,5 @@
+**简体中文** | [**English**](SPEC.en.md)
+
 # SPEC 01 · Projectile Motion
 
 > 本文件的验收标准可被自动化测试。实现需通过以下全部标准。

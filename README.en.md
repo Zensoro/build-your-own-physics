@@ -1,8 +1,8 @@
+**English** | [**简体中文**](README.md)
 # Build Your Own Physics
 
 > **Master physics by recreating it from scratch.**
 
-**简体中文** | [**English**](README.en.md)
 
 ---
 
@@ -50,19 +50,19 @@ From your "first line of physics code" to "a solar system" — 12 challenge leve
 
 | # | Challenge | Physics topic | Math needed | Difficulty |
 |---|-----------|---------------|-------------|------------|
-| 00 | [Python Crash Course](challenges/00-python-basics/README.md) | Variables, loops, functions | Basic arithmetic | ★☆☆ |
-| 01 | [Projectile Motion](challenges/01-projectile/README.md) | Projectiles, air resistance | Pythagorean theorem | ★☆☆ |
-| 02 | [Pendulum](challenges/02-pendulum/README.md) | Simple harmonic motion, phase space | Trigonometry | ★☆☆ |
-| 03 | [Orbit](challenges/03-orbit/README.md) | Gravity, Kepler's laws | Squares / square roots | ★★☆ |
-| 04 | [N-Body](challenges/04-nbody/README.md) | Many-body problem, energy conservation | Vector addition | ★★☆ |
-| 05 | [Wave Machine](challenges/05-wave-machine/README.md) | Wave equation, standing waves | Arrays | ★★☆ |
-| 06 | [Heat Engine](challenges/06-heat-engine/README.md) | Thermodynamics, Carnot cycle | +−×÷ | ★★★ |
-| 07 | [Double Pendulum](challenges/07-double-pendulum/README.md) | Chaos, Lyapunov exponent | ODEs (AI helps) | ★★★ |
-| 08 | [Fluid](challenges/08-fluid/README.md) | Fluid dynamics | Array ops | ★★★★ |
-| 09 | [Electromagnetism](challenges/09-electromagnetism/README.md) | EM fields, Maxwell's equations | Array ops | ★★★★ |
-| 10 | [Relativity](challenges/10-relativity/README.md) | Special relativity, spacetime | Matrices | ★★★★ |
-| 11 | [Quantum](challenges/11-quantum/README.md) | Quantum mechanics, wave functions | Complex numbers (AI helps) | ★★★★★ |
-| 12 | [Solar System](challenges/12-solar-system/README.md) | Capstone project | Everything (AI helps) | ★★★★★ |
+| 00 | [Python Crash Course](challenges/00-python-basics/README.en.md) | Variables, loops, functions | Basic arithmetic | ★☆☆ |
+| 01 | [Projectile Motion](challenges/01-projectile/README.en.md) | Projectiles, air resistance | Pythagorean theorem | ★☆☆ |
+| 02 | [Pendulum](challenges/02-pendulum/README.en.md) | Simple harmonic motion, phase space | Trigonometry | ★☆☆ |
+| 03 | [Orbit](challenges/03-orbit/README.en.md) | Gravity, Kepler's laws | Squares / square roots | ★★☆ |
+| 04 | [N-Body](challenges/04-nbody/README.en.md) | Many-body problem, energy conservation | Vector addition | ★★☆ |
+| 05 | [Wave Machine](challenges/05-wave-machine/README.en.md) | Wave equation, standing waves | Arrays | ★★☆ |
+| 06 | [Heat Engine](challenges/06-heat-engine/README.en.md) | Thermodynamics, Carnot cycle | +−×÷ | ★★★ |
+| 07 | [Double Pendulum](challenges/07-double-pendulum/README.en.md) | Chaos, Lyapunov exponent | ODEs (AI helps) | ★★★ |
+| 08 | [Fluid](challenges/08-fluid/README.en.md) | Fluid dynamics | Array ops | ★★★★ |
+| 09 | [Electromagnetism](challenges/09-electromagnetism/README.en.md) | EM fields, Maxwell's equations | Array ops | ★★★★ |
+| 10 | [Relativity](challenges/10-relativity/README.en.md) | Special relativity, spacetime | Matrices | ★★★★ |
+| 11 | [Quantum](challenges/11-quantum/README.en.md) | Quantum mechanics, wave functions | Complex numbers (AI helps) | ★★★★★ |
+| 12 | [Solar System](challenges/12-solar-system/README.en.md) | Capstone project | Everything (AI helps) | ★★★★★ |
 
 > **About the math**: every concept is explained *inside* the challenge when you need it (an "intuition-first" primer). You don't learn math before using it — you **learn by using it**. AI handles the parts you find confusing.
 

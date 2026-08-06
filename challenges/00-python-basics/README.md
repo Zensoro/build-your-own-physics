@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 00 · Python 零基础速成
 
 > **从零到会写第一段物理代码，只需 30 分钟。**

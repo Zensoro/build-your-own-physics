@@ -1,3 +1,5 @@
+**简体中文** | [**English**](SPEC.en.md)
+
 # Challenge 05 · Wave Machine — 验收标准（SPEC）
 
 > 本文件定义挑战 05 的可自动化验收标准。verify.py 据此评分。

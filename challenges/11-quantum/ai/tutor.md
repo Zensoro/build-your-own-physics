@@ -1,7 +1,9 @@
+**简体中文** | [**English**](tutor.en.md)
 # AI 协作提示词 · 挑战 11 · 量子力学（Quantum）
 
 > 复制以下提示词给你的 AI 助手（ChatGPT / Claude / 豆包 / DeepSeek），
 > 它就会变成你挑战 11 的私人导师。
+
 
 ## 完整提示词（一次复制）
 

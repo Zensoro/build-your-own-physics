@@ -1,3 +1,5 @@
+**简体中文** | [**English**](README.en.md)
+
 # Challenge 02 · Pendulum
 
 > **当欧拉法开始撒谎：单摆教你认识数值误差。**

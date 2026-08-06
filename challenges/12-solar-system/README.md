@@ -1,9 +1,11 @@
+**简体中文** | [**English**](README.en.md)
 # Challenge 12 · Solar System
 
 > **毕业项目：把前 11 个挑战的全部工具，组装成一个太阳系。**
 
 > 毕业挑战：挑战 01-11 的全部工具。AI 是你的副驾驶。
 > 🎓 有 AI 导师：[ai/tutor.md](ai/tutor.md)
+
 
 ## Why This Challenge
 

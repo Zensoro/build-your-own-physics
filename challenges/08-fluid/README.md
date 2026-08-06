@@ -1,9 +1,11 @@
+**简体中文** | [**English**](README.en.md)
 # Challenge 08 · Fluid
 
 > **让流动自然发生：格子玻尔兹曼方法入门。**
 
 > 需要：数组操作 + 挑战 05-06 的经验。算法复杂，但 AI 可以全程引导。
 > 🎓 有 AI 导师：[ai/tutor.md](ai/tutor.md)
+
 
 ## Why This Challenge
 
