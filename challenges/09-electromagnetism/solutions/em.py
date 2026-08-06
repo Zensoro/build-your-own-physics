@@ -84,8 +84,10 @@ if __name__ == "__main__":
     import matplotlib.pyplot as plt
 
     ez, hy, z = fdtd_1d(nz=400, n_steps=400)
-    plt.plot(z * 1e3, ez[200], label=f"t={200*0.95*dz/C0*1e9:.2f} ns")
-    plt.plot(z * 1e3, ez[300], label=f"t={300*0.95*dz/C0*1e9:.2f} ns")
+    dz = z[1] - z[0]
+    dt = 0.95 * dz / C0
+    plt.plot(z * 1e3, ez[200], label=f"t={200*dt*1e9:.2f} ns")
+    plt.plot(z * 1e3, ez[300], label=f"t={300*dt*1e9:.2f} ns")
     plt.xlabel("z (mm)")
     plt.ylabel("Ez (V/m)")
     plt.legend()

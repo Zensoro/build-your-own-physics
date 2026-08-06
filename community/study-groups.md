@@ -1,3 +1,5 @@
+**简体中文** | [**English**](study-groups.en.md)
+
 # Study Groups — 组队通关，互相 review
 
 > 物理学习最孤独的时刻，是卡在第 7 关的 RK4 上而无人可问。在这里找队友。
