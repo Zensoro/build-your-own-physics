@@ -1,6 +1,8 @@
 **English** | [**简体中文**](README.md)
 # Build Your Own Physics
 
+[![CI — 12 challenges auto-graded](https://github.com/Zensoro/build-your-own-physics/actions/workflows/challenge-grading.yml/badge.svg)](https://github.com/Zensoro/build-your-own-physics/actions/workflows/challenge-grading.yml)
+
 > **Master physics by recreating it from scratch.**
 
 
