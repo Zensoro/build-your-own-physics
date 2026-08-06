@@ -71,7 +71,7 @@ Congratulations — through 12 challenges you've rebuilt the edifice of physics,
 
 - Submit your solution as a PR to help those who come after you
 - Use the tools you've learned to solve a real problem (research, engineering, astronomy hobby)
-- Try a new challenge: see [community/ideas.md](../community/ideas.md)
-- Share your work with the community at [study-groups.md](../community/study-groups.md)
+- Try a new challenge: see [community/ideas.md](../../community/ideas.md)
+- Share your work with the community at [study-groups.md](../../community/study-groups.md)
 
 **Master physics by recreating it from scratch.**
