@@ -78,7 +78,12 @@ def grade_one(challenge_id):
 
 
 def main():
-    challenges = sys.argv[1:] or ["01-projectile", "02-pendulum", "03-orbit"]
+    challenges = sys.argv[1:] or [
+        "01-projectile", "02-pendulum", "03-orbit", "04-nbody",
+        "05-wave-machine", "06-heat-engine", "07-double-pendulum",
+        "08-fluid", "09-electromagnetism", "10-relativity",
+        "11-quantum", "12-solar-system",
+    ]
     all_pass = True
     print("=" * 60)
     print("Build Your Own Physics · 挑战自动评分")

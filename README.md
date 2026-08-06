@@ -113,12 +113,13 @@ challenges/NN-name/
 
 ## Auto-Grading（自动评分）
 
-每次 push / PR 时，GitHub Actions 会自动运行 `.github/workflows/challenge-grading.yml`，用矩阵并行评分挑战 01-03：
+每次 push / PR 时，GitHub Actions 会自动运行 `.github/workflows/challenge-grading.yml`，用矩阵并行评分挑战 01-12：
 
 - **main 分支**（TODO 模板未填）：自动用 `solutions/` 参考实现做**回归测试**，确保验收标准本身正确
 - **PR / 学习者分支**（starter 已填完）：直接对学习者的代码跑 `verify.py`，**通过才算过关**
+- 挑战 04-09、11-12 依赖 NumPy（CI 自动安装）；挑战 10 纯标准库
 
-本地想模拟 CI：`python scripts/grade.py 01-projectile 02-pendulum 03-orbit`
+本地想模拟 CI：`python scripts/grade.py`（默认全部 12 个挑战，或指定挑战名）
 
 ## Resources
 
