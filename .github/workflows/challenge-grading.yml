@@ -2,7 +2,7 @@ name: Challenge Auto-Grading
 
 on:
   push:
-    branches: [main, solutions]
+    branches: [main]
   pull_request:
 
 jobs:
