@@ -1,0 +1,42 @@
+name: Challenge Auto-Grading
+
+on:
+  push:
+    branches: [main, solutions]
+  pull_request:
+
+jobs:
+  grade:
+    name: Grade challenge ${{ matrix.challenge }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        challenge:
+          - "01-projectile"
+          - "02-pendulum"
+          - "03-orbit"
+          - "04-nbody"
+          - "05-wave-machine"
+          - "06-heat-engine"
+          - "07-double-pendulum"
+          - "08-fluid"
+          - "09-electromagnetism"
+          - "10-relativity"
+          - "11-quantum"
+          - "12-solar-system"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies (numpy; 挑战 04-09, 11-12 需要)
+        run: pip install numpy
+
+      - name: Grade challenge ${{ matrix.challenge }}
+        run: python scripts/grade.py ${{ matrix.challenge }}
