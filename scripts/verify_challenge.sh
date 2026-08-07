@@ -3,8 +3,8 @@
 # 用法: bash verify_challenge.sh <challenge_id> [python_bin]
 set -e
 CH="$1"
-PY="${2:-/Users/zen/.workbuddy/binaries/python/envs/default/bin/python}"
-ROOT="/Users/zen/WorkBuddy/2026-08-05-21-36-54/outputs/build-your-own-physics"
+PY="${2:-$(command -v python3 || echo python3)}"
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SRC="$ROOT/challenges/$CH"
 
 TMP=$(mktemp -d)
